@@ -4,7 +4,7 @@ import ColorList from "./ColorList";
 function App() {
   return (
     <div>
-      <ColorList />
+      <ColorList/>
     </div>
   );
 }
